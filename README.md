@@ -7,16 +7,15 @@
 
 ---
 
-## What I'm working on
+<h2 align="center">What I'm working on</h2>
 
-### [cabanashmul](https://github.com/shmul95/cabanashmul)
+<h3 align="center"><a href="https://github.com/shmul95/cabanashmul">cabanashmul</a></h3>
 
-My Home Manager setup and the base of my environment.
+<p align="center">My Home Manager setup and the base of my environment.</p>
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/github/v/release/shmul95/cabanashmul?label=latest%20release&style=flat-square&color=4c8bf5" alt="Latest release"/>
   <img src="https://img.shields.io/github/last-commit/shmul95/cabanashmul?style=flat-square&color=8957e5" alt="Last commit"/>
   <img src="https://img.shields.io/github/issues/shmul95/cabanashmul?style=flat-square&color=db6d28" alt="Open issues"/>
   <img src="https://img.shields.io/github/issues-pr/shmul95/cabanashmul?style=flat-square&color=2ea043" alt="Open PRs"/>
 </p>
-
