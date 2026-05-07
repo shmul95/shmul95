@@ -15,6 +15,4 @@ My Home Manager setup and the base of my environment.
 [![Open issues](https://img.shields.io/github/issues/shmul95/cabanashmul?style=flat-square)](https://github.com/shmul95/cabanashmul/issues)
 [![Open PRs](https://img.shields.io/github/issues-pr/shmul95/cabanashmul?style=flat-square)](https://github.com/shmul95/cabanashmul/pulls)
 
-- [Releases](https://github.com/shmul95/cabanashmul/releases)
-- [Issues](https://github.com/shmul95/cabanashmul/issues)
-- [Pull requests](https://github.com/shmul95/cabanashmul/pulls)
+[Releases](https://github.com/shmul95/cabanashmul/releases) | [Issues](https://github.com/shmul95/cabanashmul/issues) | [Pull requests](https://github.com/shmul95/cabanashmul/pulls)
