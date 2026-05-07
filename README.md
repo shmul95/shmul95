@@ -20,14 +20,3 @@ My Home Manager setup and the base of my environment.
   <img src="https://img.shields.io/github/issues-pr/shmul95/cabanashmul?style=flat-square&color=2ea043" alt="Open PRs"/>
 </p>
 
-<p>
-  <a href="https://github.com/shmul95/cabanashmul/releases">
-    <img src="https://img.shields.io/badge/View-Releases-4c8bf5?style=for-the-badge&logo=github&logoColor=white" alt="View releases"/>
-  </a>
-  <a href="https://github.com/shmul95/cabanashmul/issues">
-    <img src="https://img.shields.io/badge/View-Issues-db6d28?style=for-the-badge&logo=github&logoColor=white" alt="View issues"/>
-  </a>
-  <a href="https://github.com/shmul95/cabanashmul/pulls">
-    <img src="https://img.shields.io/badge/View-Pull%20Requests-2ea043?style=for-the-badge&logo=github&logoColor=white" alt="View pull requests"/>
-  </a>
-</p>
